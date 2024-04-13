@@ -46,7 +46,6 @@ I may be front-end leaning but definitely use Node.js in almost all of my projec
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Web Sockets](https://img.shields.io/badge/-Web_Sockets-4A4A4A?style=flat-square&logoColor=white)
-![HTML Canvas](https://img.shields.io/badge/-HTML_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
