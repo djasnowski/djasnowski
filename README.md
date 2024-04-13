@@ -82,5 +82,10 @@ And more. Always learning. Always developing!
 ## 🗂️ Other Projects
 
 - [Patient Portal](https://github.com/naknode/finni-portal): Manage patients with this helpful dashboard. Patients can have multiple addresses and multiple custom key/value fields. Using Vue 3 front-end with fastify and Prisma for ORM on the backend. NPM workspaces ties up the project for a better UX and CI/CD.
-    - Frontend: Vue, Ag-Grid, Material UI
-    - Backend: Prisma, Node.js, Faker-js
+    - **Frontend**: Vue, Ag-Grid, Material UI
+    - **Backend**: Prisma, Node.js, Faker-js
+    - **Other**: TypeScript, eslint
+
+<div align="center">
+    <img src="https://profile-counter.glitch.me/naknode/count.svg" alt="hit counter" align="center">
+</div>
