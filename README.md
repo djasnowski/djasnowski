@@ -25,7 +25,7 @@ me.sayHi();
 
 Hey, it's Dan Jasnowski. I'm a Senior Software Engineering nearing 10 years in this business and have loved every second. While I love the front-end, my skills go towards full-stack developement. I've used React, Vue and Angular in my time, with Node.js and fastify, Nest.js with Nuxt.js and Nest.js. It's a full circle kind of deal, y'know? 
 
-I may be front-end leaning but definitely use Node.js in almost all of my projects. From Prisma and Drizzle to TypeORM and more, TypeScript is never a project away as it's a critical part of my toolset.
+I may be front-end leaning but definitely use Node.js in almost all of my projects. From Prisma and Drizzle to Zod, web sockets and more, I'm always dabbling in something new. TypeScript is never a project away as it's a critical part of my toolset.
 
 ## 👇  Current project
 
