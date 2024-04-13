@@ -27,6 +27,12 @@ Hey, it's Dan Jasnowski. I'm a Senior Software Engineering nearing 10 years in t
 
 I may be front-end leaning but definitely use Node.js in almost all of my projects. From Prisma and Drizzle to TypeORM and more, TypeScript is never a project away as it's a critical part of my toolset.
 
+## 👇  Current project
+
+I'm currently working on [Delaford](https://beta.delaford.com). An online 2D RPG written TypeScript, Vue, Node.js and more. Go back to the Medieval Ages where can smith for ore, smelt weapons, sell to town traders or other players, bank items and so much more! Taken inspiration from the 1990s dungeon crawlers and medieval-esque type games from the past.
+
+![Delaford](https://github.com/naknode/naknode/blob/main/DELAFORD.jpg)
+
 ## 🖥️ Experience & Skills
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -73,12 +79,8 @@ And more. Always learning. Always developing!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naknode&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlight Projects
+## 🗂️ Other Projects
 
-<a href="https://github.com/delaford/game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=delaford&repo=game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Delaford" />
-</a>
-
-<a href="https://github.com/naknode/finni-portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naknode&repo=finni-portal&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Node.js, Prisma, Vue and more" />
-</a>
+- [Patient Portal](https://github.com/naknode/finni-portal): Manage patients with this helpful dashboard. Patients can have multiple addresses and multiple custom key/value fields. Using Vue 3 front-end with fastify and Prisma for ORM on the backend. NPM workspaces ties up the project for a better UX and CI/CD.
+    - Frontend: Vue, Ag-Grid, Material UI
+    - Backend: Prisma, Node.js, Faker-js
