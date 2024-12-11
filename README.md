@@ -31,7 +31,7 @@ I may be front-end leaning but definitely use Node.js in almost all of my projec
 
 I'm currently working on [Delaford](https://beta.delaford.com). An online 2D RPG written TypeScript, Vue, Node.js and more. Go back to the Medieval Ages where can smith for ore, smelt weapons, sell to town traders or other players, bank items and so much more! Taken inspiration from the 1990s dungeon crawlers and medieval-esque type games from the past.
 
-![Delaford](https://github.com/naknode/naknode/blob/main/DELAFORD.jpg)
+![Delaford](https://github.com/djasnowski/djasnowski/blob/main/DELAFORD.jpg)
 
 ## 🖥️ Experience & Skills
 
@@ -77,15 +77,15 @@ And more. Always learning. Always developing!
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naknode&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=djasnowski&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Other Projects
 
-- [Patient Portal](https://github.com/naknode/finni-portal): Manage patients with this helpful dashboard. Patients can have multiple addresses and multiple custom key/value fields. Using Vue 3 front-end with fastify and Prisma for ORM on the backend. NPM workspaces ties up the project for a better UX and CI/CD.
+- [Patient Portal](https://github.com/djasnowski/finni-portal): Manage patients with this helpful dashboard. Patients can have multiple addresses and multiple custom key/value fields. Using Vue 3 front-end with fastify and Prisma for ORM on the backend. NPM workspaces ties up the project for a better UX and CI/CD.
     - **Frontend**: Vue, Ag-Grid, Material UI
     - **Backend**: Prisma, Node.js, Faker-js
     - **Other**: TypeScript, eslint
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/naknode/count.svg" alt="hit counter" align="center">
+    <img src="https://profile-counter.glitch.me/djasnowski/count.svg" alt="hit counter" align="center">
 </div>
