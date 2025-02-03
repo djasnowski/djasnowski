@@ -2,19 +2,21 @@
 
 ```typescript
 class SoftwareEngineer {
-    name: string;
-    role: string;
-    languageSpoken: string[];
+  name: string;
+  role: string;
+  languageSpoken: string[];
 
-    constructor() {
-        this.name = "Dan Jasnowski";
-        this.role = "Senior Software Engineer";
-        this.languageSpoken = ["es_ES", "en_US"];
-    }
+  constructor() {
+    this.name = "Dan Jasnowski";
+    this.role = "Senior Software Engineer";
+    this.languageSpoken = ["es_ES", "en_US"];
+  }
 
-    sayHi(): void {
-        console.log("Thanks for dropping by GitHub profile! I hope you find some of my work interesting.");
-    }
+  sayHi(): void {
+    console.log(
+      "Thanks for dropping by GitHub profile! I hope you find some of my work interesting."
+    );
+  }
 }
 
 const me = new SoftwareEngineer();
@@ -23,11 +25,11 @@ me.sayHi();
 
 ## 😃 Who Am I?
 
-Hey, it's Dan Jasnowski. I'm a Senior Software Engineering nearing 10 years in this business and have loved every second. While I love the front-end, my skills go towards full-stack developement. I've used React, Vue and Angular in my time, with Node.js and fastify, Nest.js with Nuxt.js and Nest.js. It's a full circle kind of deal, y'know? 
+Hey, it's Dan Jasnowski. I'm a Senior Software Engineering nearing 10 years in this business and have loved every second. While I love the front-end, my skills go towards full-stack developement. I've used React, Vue and Angular in my time, with Node.js and fastify, Nest.js with Nuxt.js and Nest.js. It's a full circle kind of deal, y'know?
 
 I may be front-end leaning but definitely use Node.js in almost all of my projects. From Prisma and Drizzle to Zod, web sockets and more, I'm always dabbling in something new. TypeScript is never a project away as it's a critical part of my toolset.
 
-## 👇  Current project
+## 👇 Current project
 
 I'm currently working on [Delaford](https://beta.delaford.com). An online 2D RPG written TypeScript, Vue, Node.js and more. Go back to the Medieval Ages where can smith for ore, smelt weapons, sell to town traders or other players, bank items and so much more! Taken inspiration from the 1990s dungeon crawlers and medieval-esque type games from the past.
 
@@ -81,10 +83,10 @@ And more. Always learning. Always developing!
 
 ## 🗂️ Other Projects
 
-- [Patient Portal](https://github.com/djasnowski/finni-portal): Manage patients with this helpful dashboard. Patients can have multiple addresses and multiple custom key/value fields. Using Vue 3 front-end with fastify and Prisma for ORM on the backend. NPM workspaces ties up the project for a better UX and CI/CD.
-    - **Frontend**: Vue, Ag-Grid, Material UI
-    - **Backend**: Prisma, Node.js, Faker-js
-    - **Other**: TypeScript, eslint
+- [Patient Portal](https://github.com/djasnowski/patient-portal): Manage patients with this helpful dashboard. Patients can have multiple addresses and multiple custom key/value fields. Using Vue 3 front-end with fastify and Prisma for ORM on the backend. NPM workspaces ties up the project for a better UX and CI/CD.
+  - **Frontend**: Vue, Ag-Grid, Material UI
+  - **Backend**: Prisma, Node.js, Faker-js
+  - **Other**: TypeScript, eslint
 
 <div align="center">
     <img src="https://profile-counter.glitch.me/djasnowski/count.svg" alt="hit counter" align="center">
